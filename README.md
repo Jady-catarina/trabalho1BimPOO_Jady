@@ -33,3 +33,5 @@ Para mostrar uma mensagem na tela, podemos utilizar o código:
   
 **"Olá, seja bem vindo(a) à SkyBlue!":**
 O texto dentro das aspas duplas é uma String (cadeia de caracteres) que será exibida exatamente como está no console.
+
+Ao executar este programa, o Java localiza o método main, executa a instrução println e exibe no console (terminal).
