@@ -42,7 +42,6 @@ Ao executar este programa, o Java localiza o método main, executa a instrução
 
 As IDEs (Ambientes de Desenvolvimento Integrado) são ferramentas essenciais para programadores, pois reúnem editor de código, compilador, depurador e outros recursos em um único ambiente. Cada IDE possui características próprias que influenciam na produtividade e no tipo de projeto desenvolvido.
 
----
 
 ##  Principais IDEs
 
@@ -77,7 +76,7 @@ As IDEs (Ambientes de Desenvolvimento Integrado) são ferramentas essenciais par
 
 
 
-##  Conclusão
+###  Conclusão
 
 Cada IDE atende a diferentes necessidades:
 
